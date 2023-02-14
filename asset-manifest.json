@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dilizent/static/css/main.1457d5c1.css",
+    "main.js": "/Dilizent/static/js/main.3ce12187.js",
+    "static/js/787.f3786233.chunk.js": "/Dilizent/static/js/787.f3786233.chunk.js",
+    "static/media/idea_2.jpg": "/Dilizent/static/media/idea_2.d0312ad0d1d252da9ce3.jpg",
+    "static/media/home-banner-1.png": "/Dilizent/static/media/home-banner-1.92de3e5c1a855f7f276c.png",
+    "static/media/home-banner.png": "/Dilizent/static/media/home-banner.3cb0c8e985858efa917d.png",
+    "static/media/user-info-banner-bg.png": "/Dilizent/static/media/user-info-banner-bg.a527f3bfb491d1260b8d.png",
+    "static/media/life-skills.webp": "/Dilizent/static/media/life-skills.577c6a9aca72d55f9d53.webp",
+    "static/media/talent.png": "/Dilizent/static/media/talent.8790b3b2253f162de337.png",
+    "static/media/skill-1.jpg": "/Dilizent/static/media/skill-1.278e63ef9e81cf814a64.jpg",
+    "static/media/life-skills-logo.png": "/Dilizent/static/media/life-skills-logo.7832e5dc189857e0304b.png",
+    "static/media/skill-5.jpg": "/Dilizent/static/media/skill-5.3f7c498abf4a09e5f079.jpg",
+    "static/media/graphics-design.svg": "/Dilizent/static/media/graphics-design.91dfe44b284b4804f627e836832a521c.svg",
+    "index.html": "/Dilizent/index.html",
+    "main.1457d5c1.css.map": "/Dilizent/static/css/main.1457d5c1.css.map",
+    "main.3ce12187.js.map": "/Dilizent/static/js/main.3ce12187.js.map",
+    "787.f3786233.chunk.js.map": "/Dilizent/static/js/787.f3786233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1457d5c1.css",
+    "static/js/main.3ce12187.js"
+  ]
+}
